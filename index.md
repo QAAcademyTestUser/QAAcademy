@@ -1,4 +1,4 @@
-## Modules
+## Introduction
 This QA curriculum has 8 modules.They are categorized as compulsory modules, technical modules and nice to have modules. Main objective of the curriculum is to lay a good foundation for individuals who would like to be QAE in future. Below picture depicts the module names. Different color codes have been used for node backgrounds of different cetegories.
 
 1.Pink  - Compulsory modules
@@ -6,7 +6,7 @@ This QA curriculum has 8 modules.They are categorized as compulsory modules, tec
 2.Green  - Technical modules
 
 3.Yellow  - Nice to have modules
-### Markdown
+
 
 ![Image](https://user-images.githubusercontent.com/96818549/147656984-1f5ba2ee-2123-40d5-ab43-4cb3bf5d0c27.png)
 
@@ -15,7 +15,7 @@ which focus on acquiring knowledge and then the skill of applying this new knowl
 enthusiasm and confidence of students. Experience based learning is believed to be more efficient nowadays. Therefore, this 
 has organized in a way ensuring 60% of practical learning and 40% of theoritical concepts.
 
-
+### Special notes
 1. Practical assessments and free reference study material wil be provided after completing each module
 2. Tools and technologies for the practical illustrations would be vary according to the curret demand and popularity of them.
 3. Content of the 6th Module (trending QA tools, technologies and methods) will be updated biannually based on existing industry trends.
