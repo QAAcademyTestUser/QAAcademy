@@ -1,21 +1,26 @@
-## Welcome to GitHub Pages
+## Modules
+This QA curriculum has 8 modules.They are categorized as compulsory modules, technical modules and nice to have modules. 
+Below picture depicts the module names seperating the categories using different background colors.
 
-You can use the [editor on GitHub](https://github.com/QAAcademyTestUser/QAAcademy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.Pink background - Compulsory modules
 
+2.Green background - Technical modules
+
+3.Yellow background - Nice to have modules
 ### Markdown
 
+![Image](https://user-images.githubusercontent.com/96818549/147656984-1f5ba2ee-2123-40d5-ab43-4cb3bf5d0c27.png)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
+```Keynotes
+This comprehensive curriculum has almost all the important topics related to Software quality assurance and this has arranged in a way ensuring 60% of practical learning and 40% of theoritical concepts since it consider the effectiveness of experience based learning method.
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
+[QAOpenSyllabus](https://user-images.githubusercontent.com/96818549/147656984-1f5ba2ee-2123-40d5-ab43-4cb3bf5d0c27.png)
+
 - List
 
 1. Numbered
