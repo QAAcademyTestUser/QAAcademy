@@ -9,9 +9,7 @@ This QA curriculum has 8 modules.They are categorized as compulsory modules, tec
 ### Markdown
 
 ![Image](https://user-images.githubusercontent.com/96818549/147656984-1f5ba2ee-2123-40d5-ab43-4cb3bf5d0c27.png)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```Keynotes
 This comprehensive curriculum has almost all the important topics related to Software quality assurance.Learning experiences
 which focus on acquiring knowledge and then the skill of applying this new knowledge in new and interesting ways improve the 
 enthusiasm and confidence of students. Experience based learning is believed to be more efficient nowadays. Therefore, this 
