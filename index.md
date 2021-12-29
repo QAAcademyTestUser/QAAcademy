@@ -23,30 +23,8 @@ has organized in a way ensuring 60% of practical learning and 40% of theoritical
    availability and current requirements.
 5. This will ensure that all aspects of software quality assurance are covered and students have intermediate level of 
    understanding about each topic item after completing the syllabus.
-6. Further guidance will be provided to improve practical knowledge more upon request.   
+6. Further guidance will be provided to improve practical knowledge more upon request.  
 
-# Header 1
-## Header 2
-### Header 3
 
-[QAOpenSyllabus](https://user-images.githubusercontent.com/96818549/147656984-1f5ba2ee-2123-40d5-ab43-4cb3bf5d0c27.png)
 
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QAAcademyTestUser/QAAcademy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Link](url)
