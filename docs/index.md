@@ -16,7 +16,7 @@
 
 1.6	Role of quality assurance engineer
 
-	Quality assuance to quality engineering
+1.6.1	Quality assuance to quality engineering
 	
 1.7	Quality attributes ("Functional suitability.
 
@@ -94,13 +94,13 @@ Transferability.)
 
 1.9.2	Defect prevention
 
-	Cost of bugs
+1.9.2.1	Cost of bugs
 	
-	How cost of bugs increases throughout SDLC
+1.9.2.3	How cost of bugs increases throughout SDLC
 	
-	How to prevent defects early
+1.9.2.4	How to prevent defects early
 	
-	Shift left testing
+1.9.2.5	Shift left testing
   
   
 	References/free study materials on General QA concepts
