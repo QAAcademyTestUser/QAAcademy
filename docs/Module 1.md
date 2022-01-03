@@ -103,8 +103,9 @@ Transferability.)
 	
 1.9.2.5	Shift left testing
   
+  **References/free study materials for General QA concepts**
   
-	**References/free study materials on General QA concepts**
+	
 	https://www.toolsqa.com/software-testing/software-testing-tutorial/
 	https://www.toolsqa.com/software-testing/istqb/quality-assurance-and-quality-control/
 	https://www.toolsqa.com/katalon-studio/shift-left-testing/
