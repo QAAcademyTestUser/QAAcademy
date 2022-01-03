@@ -77,7 +77,7 @@ This module include complete guidance about test management throughout the STLC
 	Based on existing test requirement
 	Based on seviority & priority values
   
-2.1	Test metices
+2.10	Test metices
 
 	What is it?
 	Why it is useful?
@@ -87,7 +87,9 @@ This module include complete guidance about test management throughout the STLC
 2.11	Test management tools
 
 	List of popular tools (Test rail, Practitests, testlink etc..)
-	Practical illustration
+	
+2.12	Practical illustration
+
 	Test management - Practical demonostration with popular tools (Ex:Jira & Zephyr)
 	
 	**References/free study materials on Test management**
