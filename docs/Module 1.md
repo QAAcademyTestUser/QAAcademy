@@ -1,4 +1,5 @@
-## General QA concepts is the first module of the curriculum and it has fundamental concepts about quality assurance.
+## General QA concepts 
+This is the very first and one of the important modules of the curriculum and it has fundamental concepts about quality assurance in brief while ensuring the necessity of QA.
 
 1.1	Introduction & Fundamentals
 
@@ -103,7 +104,7 @@ Transferability.)
 1.9.2.5	Shift left testing
   
   
-	References/free study materials on General QA concepts
+	#References/free study materials on General QA concepts
 	https://www.toolsqa.com/software-testing/software-testing-tutorial/
 	https://www.toolsqa.com/software-testing/istqb/quality-assurance-and-quality-control/
 	https://www.toolsqa.com/katalon-studio/shift-left-testing/
