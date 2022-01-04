@@ -8,8 +8,9 @@ This is the very first and one of the important modules of the curriculum and it
 1.3	Why it is necessary?
 
 	Objectives of testing/QA
-	Importance of testing/QA
-
+	Importance of testing/QA 
+    Some real world scenario where big failures occurred due to inadequate QA
+	
 1.4	Quality assuance vs Quality control
 
 1.5	Role of tester
