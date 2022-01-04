@@ -60,3 +60,86 @@ This is the module which explain technical aspect of test development. This has 
 
 	Ex:https://testautomationu.applitools.com/appium-java-tutorial
 	Practical assessment (a simple test automation challange)
+	
+4.3	**Test automation frameworks**
+
+4.3.1	Automation frameworks -Introduction
+
+	What is test automation framework?
+	Why it is necessary?
+	Types of test automation frameworks
+	
+4.3.2	Sample test automation frameworks 
+
+	Modular based
+	Data driven
+	Mocha
+	Hybrid
+	Practical illustration
+	Create a test automation framework
+	
+4.4	**References/free study materials on test automation framework**
+
+	https://testautomationu.applitools.com/intellij/
+	https://testautomationu.applitools.com/robot-framework-tutorial/
+	Practical assessment on setting up simple framework
+	
+4.4	**CI and CD**
+
+4.4.1	Basic Introduction
+
+	What is CI and CD?
+	Why it is necessary?
+	Practical illustration
+	CI with Jenkins
+	Ant, Maven
+	
+4.4	**References/free study materials on CI and CD**
+
+	(Ex:https://testautomationu.applitools.com/jenkins-tutorial/)
+	Practical assessment on CI with Jenkins for automated test execution
+	
+4.5	**Version control system**
+
+	Basic introduction 
+	Introduction to GIThub
+	Practical illustration
+	About git and how to use it
+	
+4.5	**References/free study materials on git use**
+
+	Ex: https://testautomationu.applitools.com/git-tutorial/
+	Practical assessment on how to use git
+	
+4.6	**API Testing**
+
+4.6.1	Basic introduction
+
+4.6.1.1	What is API?
+
+4.6.1.2	What is web service?
+
+4.6.1.3	Why we use API and web services?
+
+4.6.1.4	Types of Protocols, Archtitectural style
+
+4.6.1.5	What is an API call
+
+	Types of calls (POST,GET,PUT,DELETE)
+	Prerequisites for API testing
+	API Documentation / Swagger Documentation
+	
+4.6.2	API testing techniques
+
+	What needs to be testfed in an API
+	API test Planning
+	Deriving Test cases
+	Execution and Reporting
+	Practical illustration
+	Postman introdutction & API Test Automation with Postman
+	
+4.6	**References/free study materials on API testing**
+
+	Ex:https://testautomationu.applitools.com/postman-tutorial/
+	https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/
+	Practical assessment 
