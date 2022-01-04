@@ -22,7 +22,7 @@ This is the module which explain technical aspect of test development. This has 
 	https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
 	Practical assessment (MCQs & long answer quizzes)
   
-  4.2	Web Test Automation
+  4.2	**Web test automation**
   
 	Tools/options available for web test automation
 	Page object and more patterns/best practices
@@ -36,7 +36,7 @@ This is the module which explain technical aspect of test development. This has 
 	(Ex:https://angiejones.tech/selenium-webdriver-tutorial-with-java/,
 	Practical assessment (a simple test automation challange)
   
-** 4.2	Mobile test automation**
+ 4.2	**Mobile test automation**
   
 4.2.1	Introduction - Mobile test automation
 
