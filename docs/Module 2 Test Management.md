@@ -8,8 +8,7 @@ This module include complete guidance about test management throughout the STLC
 
 2.4	Test effort estimation
 
-2.4.1	Estimation techniques
-
+	Estimation techniques
 	What to estimate?((Skills, resources, time, cost)
 	How to estimate?techiniques available
 	QC/QA tasks in a project
@@ -23,8 +22,7 @@ This module include complete guidance about test management throughout the STLC
 
 2.5.1	Test planing
 
-2.5.1.1	Identify testing/QA objectives
-
+	Identify testing/QA objectives
 	Identify testing needs
 	Consider budget,time, resources available
 	Prepare the test plan
@@ -92,6 +90,6 @@ This module include complete guidance about test management throughout the STLC
 
 	Test management - Practical demonostration with popular tools (Ex:Jira & Zephyr)
 	
-	**References/free study materials on Test management**
+2.13	**References/free study materials on Test management**
 	
 	 Practical assessment (MCQs & short answer quizzes)
