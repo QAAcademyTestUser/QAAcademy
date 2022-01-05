@@ -7,8 +7,7 @@
 3.1.1.1	Testing techniques
 
 	Black box testing (What is it?
-	When,why,how to perform?)
-	
+	When,why,how to perform?)	
 	White box testing
 	Unit testing
 	Component testing
@@ -24,17 +23,15 @@
   
 3.1.2	Non functional testing
 
- Performance testing             
- Stress, Volume, Distributed load testing
- 
- Security testing
- 
- Installation,Recovery,reliability tests
+       Performance testing             
+       Stress, Volume, Distributed load testing 
+       Security testing 
+       Installation,Recovery,reliability tests
 
 3.1.3	Other testing types
 
 	UI/UX/Usability testing
-  Accessibility testing
+        Accessibility testing
 	Accessibility testing
 	
 3.1.4	Test pyramid
@@ -50,4 +47,5 @@
 	https://www.toolsqa.com/software-testing/istqb/testing-techniques/
 	https://www.toolsqa.com/software-testing/istqb/black-box-testing-techniques/
 	https://www.toolsqa.com/software-testing/white-box-testing/
+	
 	Practical assessment (MCQs & small answer quizzes)
