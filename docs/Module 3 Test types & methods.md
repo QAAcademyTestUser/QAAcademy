@@ -23,16 +23,16 @@
   
 3.1.2	Non functional testing
 
-       Performance testing             
-       Stress, Volume, Distributed load testing 
-       Security testing 
-       Installation,Recovery,reliability tests
+      Performance testing             
+      Stress, Volume, Distributed load testing 
+      Security testing 
+      Installation,Recovery,reliability tests
 
 3.1.3	Other testing types
 
-	UI/UX/Usability testing
-        Accessibility testing
-	Accessibility testing
+      UI/UX/Usability testing
+      Accessibility testing
+      Accessibility testing
 	
 3.1.4	Test pyramid
 
