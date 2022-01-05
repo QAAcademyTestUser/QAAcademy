@@ -19,7 +19,8 @@
 	Exporatory testing
 	Ad-hoc testing
 	Alpha, beta testing
-	Test pyramid
+	
+3.2	Test pyramid
   
 3.1.2	Non functional testing
 
@@ -33,8 +34,6 @@
       UI/UX/Usability testing
       Accessibility testing
       Accessibility testing
-	
-3.1.4	Test pyramid
 
 3.1.5	QA process adherence to different development processes
 
