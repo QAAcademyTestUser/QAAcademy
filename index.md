@@ -29,4 +29,8 @@ has organized in a way ensuring 60% of practical learning and 40% of theoritical
 
 [Module 01](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%201%20(General%20QA).md)
 
-[Module 02](https://github.com/QAAcademyTestUser/QAAcademy/edit/gh-pages/docs/Module2.md)
+[Module 02](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%202%20Test%20Management.md)
+
+[Module 03](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%203%20Test%20types%20&%20methods.md)
+
+[Module 04](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%204%20Technical%20QA.md)
