@@ -69,6 +69,9 @@ This module is about most popular/trending techologies, processes, techniques an
 5.11 **References/free study materials on Trending QA technologies**
 
 https://testautomationu.applitools.com/blockchain-testing/
+
 https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/
+
 https://searchcio.techtarget.com/definition/RPA
+
 Practical assessment (yet to decide)
