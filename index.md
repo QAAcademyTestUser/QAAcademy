@@ -39,22 +39,22 @@ has organized in a way ensuring 60% of practical learning and 40% of theoritical
 
 
 
-[Module 01 - General QA Concepts](./docs/Module%201%20(General%20QA).md)
+[Module 01 - General QA Concepts](./docs/Module%201%20(General%20QA).html)
 
-[Module 02 - Test Management](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%202%20Test%20Management.md)
+[Module 02 - Test Management](./docs/Module%202%20Test%20Management.html)
 
-[Module 03 - Testing Types](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%203%20Test%20types%20&%20methods.md)
+[Module 03 - Testing Types](./docs/Module%203%20Test%20types%20&%20methods.html)
 
-[Module 04 - Technical QA](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%204%20Technical%20QA.md)
+[Module 04 - Technical QA](./docs/Module%204%20Technical%20QA.html)
 
-[Module 05 - Performance Testing](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%2005%20Performance%20Testing.md)
+[Module 05 - Performance Testing](./docs/Module%2005%20Performance%20Testing.html)
 
-[Module 06 - Security Testing](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%2006%20Security%20Testing.md)
+[Module 06 - Security Testing](./docs/Module%2006%20Security%20Testing.html)
 
-[Module 07 - Trending QA Technologies & Process](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%2007%20Trending%20QA%20technologies.md)
+[Module 07 - Trending QA Technologies & Process](./docs/Module%2007%20Trending%20QA%20technologies.html)
 
-[Module 08 - Soft Skills for QA](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%2008%20-Soft%20Skills%20for%20QA.md)
+[Module 08 - Soft Skills for QA](./docs/Module%2008%20-Soft%20Skills%20for%20QA.html)
 
-[Module 09 - Quality Assurance career ladder ](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%2009%20QA%20Career%20Ladder.md)
+[Module 09 - Quality Assurance career ladder ](./docs/Module%2009%20QA%20Career%20Ladder.html)
 
 
