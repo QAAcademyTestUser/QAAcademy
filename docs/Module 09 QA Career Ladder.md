@@ -30,9 +30,9 @@
   
 7.2	Myths about QA/Testeing career
 
-   Testing/QA is a boring task
-   QA/Testers have less no of opportuniities compared to developers
-   Testers income can be lower than programmers
+       Testing/QA is a boring task
+       QA/Testers have less no of opportuniities compared to developers
+       Testers income can be lower than programmers
    
 7.4	Important facts
 
