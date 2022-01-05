@@ -1,7 +1,7 @@
 ## Introduction
-This QA curriculum has 9 modules.They are categorized as compulsory modules, technical modules and nice to have modules. Main objective of the curriculum is to lay a good foundation for individuals who would like to be QAE in future. Below picture depicts the module names. Different color codes have been used for node backgrounds of different cetegories.
+This QA curriculum has 9 modules.They are categorized as main modules, technical modules and nice to have modules. Main objective of the curriculum is to lay a good foundation for individuals who would like to be QAE in future. Below picture depicts the module names. Different color codes have been used for node backgrounds of different cetegories.
 
-1.Pink  - Compulsory modules
+1.Pink  - Main/Compulsory modules
 
 2.Green  - Technical modules
 
