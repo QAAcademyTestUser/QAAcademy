@@ -1,2 +1,2 @@
 # QAAcademy
-This include open QA syllabus
+This includes open QA syllabus
