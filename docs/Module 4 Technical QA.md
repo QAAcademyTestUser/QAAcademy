@@ -19,6 +19,7 @@ This is the module which explain technical aspect of test development. This has 
 	Learning curve and complexity
   
 	**References/free study materials on test automation relevent to the topics discussed under 4.1 **
+	
 	https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
 	Practical assessment (MCQs & long answer quizzes)
   
@@ -26,27 +27,24 @@ This is the module which explain technical aspect of test development. This has 
   
 	Tools/options available for web test automation
 	Page object and more patterns/best practices
-	Set up an automation project 
-	Practical illustration
-	Sample test automation with selenium web driver, Java/python, TestNG/Junit
+	
+   4.2.1 How to do (Practical part)Practical illustration
+	Set up an automation project
+	Sample test automation (Ex: with selenium web driver, Java/python, TestNG/Junit or other popular approach)
 	Test reporting (theory on available options and one practitical illustration with maven surfire)
   
-4.3	**References/free study materials on test automation relevent to the topics discussed under 4.2**
+4.4	**References/free study materials on test automation relevent to the topics discussed under 4.2**
   
 	(Ex:https://angiejones.tech/selenium-webdriver-tutorial-with-java/,
 	Practical assessment (a simple test automation challange)
   
  4.2	**Mobile test automation**
   
-4.2.1	Introduction - Mobile test automation
-
-4.2.1.2	Mobile application types
-
-4.2.1.1	Mobile Test Automation - key points
-
-4.2.1.3	Tools/options available for mobile test automation
-
-4.2.2.4	Real Device, Simulation and Emulations
+	Introduction - Mobile test automation
+	Mobile application types
+	Mobile Test Automation - key points
+	Tools/options available for mobile test automation
+	Real Device, Simulation and Emulations
 
 4.2.1	How to do (Practical part)
 
@@ -113,18 +111,12 @@ This is the module which explain technical aspect of test development. This has 
 	
 4.6	**API Testing**
 
-4.6.1	Basic introduction
-
-4.6.1.1	What is API?
-
-4.6.1.2	What is web service?
-
-4.6.1.3	Why we use API and web services?
-
-4.6.1.4	Types of Protocols, Archtitectural style
-
-4.6.1.5	What is an API call
-
+	Basic introduction
+	What is API?
+	What is web service?
+	Why we use API and web services?
+	Types of Protocols, Archtitectural style
+	What is an API call
 	Types of calls (POST,GET,PUT,DELETE)
 	Prerequisites for API testing
 	API Documentation / Swagger Documentation
