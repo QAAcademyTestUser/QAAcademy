@@ -39,7 +39,7 @@ has organized in a way ensuring 60% of practical learning and 40% of theoritical
 
 
 
-[Module 01 - General QA Concepts](https://qaacademytestuser.github.io/QAAcademy/docs/Module%201%20(General%20QA).md)
+[Module 01 - General QA Concepts](./docs/Module%201%20(General%20QA).md)
 
 [Module 02 - Test Management](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%202%20Test%20Management.md)
 
