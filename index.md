@@ -7,6 +7,18 @@ This QA curriculum has 9 modules.They are categorized as main modules, technical
 
 3.Yellow  - Nice to have modules
 
+**Basic structure of each module is as follows.**
+
+  *  Main topics 
+  
+  *  Sub topics                         
+  
+  *  Further break down of sub topics (if needed)
+  
+  *  References/free study materials for the relevent chapter and assesment plan
+  
+  *  Practical illustrations of the chapter content
+
 
 ![Image](https://user-images.githubusercontent.com/96818549/147656984-1f5ba2ee-2123-40d5-ab43-4cb3bf5d0c27.png)
 
@@ -16,14 +28,14 @@ enthusiasm and confidence of students. Experience based learning is believed to 
 has organized in a way ensuring 60% of practical learning and 40% of theoritical concepts.
 
 ### Special notes
-1. Practical assessments and free reference study material wil be provided after completing each module
+1. Practical assessments will be suggested after completing each module.
 2. Tools and technologies for the practical illustrations would be vary according to the curret demand and popularity of them.
 3. Content of the 6th Module (trending QA tools, technologies and methods) will be updated biannually based on existing industry trends.
 4. Reference links/study materials that has been provided for self studies and further improvements will be changed based on their
    availability and current requirements.
 5. This will ensure that all aspects of software quality assurance are covered and students have intermediate level of 
    understanding about each topic item after completing the syllabus.
-6. Further guidance will be provided to improve practical knowledge more upon request.  
+6. Further guidance will be provided to improve practical knowledge more upon requirement and request.  
 
 
 
