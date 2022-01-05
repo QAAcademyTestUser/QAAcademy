@@ -26,43 +26,45 @@ This module is about most popular/trending techologies, processes, techniques an
 
 5.4 Big data testing
 
-   What is it and how to do?
-   Testing in cloud
-   What is it and how it works?
+    What is it and how to do?
+    Testing in cloud
+    What is it and how it works?
 
 5.5 IOT testing
 
-   What is it ? What to test?
-   Benefits of testing
-   Performance,Security,Usability,Network,connectivity,compatibility,operability,compliance and regulation tests
-   Testing challanges
+    What is it ? What to test?
+    Benefits of testing
+    Performance,Security,Usability,Network,connectivity,compatibility,operability,compliance and regulation tests
+    Testing challanges
 
 5.6 Codeless Automated Testing
 
-   What is it and how it works?
+    What is it and how it works?
 
 5.7 RPA
 
-  What is it ?
-  What are RPA bots does?
-  Is RPA same intelligent automation?
-  Why use RPA?
-  How does RPA works?
+    What is it ?
+    What are RPA bots does?
+    Is RPA same intelligent automation?
+    Why use RPA?
+    How does RPA works?
 
 5.8 Block chain testing
-
-  Introduction
-  Set up -local blockchain
-  Create first contact & run the test
+ 
+    Introduction
+    Set up -local blockchain
+    Create first contact & run the test
 
 5.9 Data science
-  What is it ?
-  ETL testing
-  What is it and how to do?
+
+    What is it ?
+    ETL testing
+    What is it and how to do?
 
 5.10 SAP testing
-
-  What is it and how to do?
+ 
+     What is it?
+     How to do?
 
 5.11 **References/free study materials on Trending QA technologies**
 
