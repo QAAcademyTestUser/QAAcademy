@@ -28,7 +28,8 @@ This is the module which explain technical aspect of test development. This has 
 	Tools/options available for web test automation
 	Page object and more patterns/best practices
 	
-   4.2.1 How to do (Practical part)Practical illustration
+  4.2.1  How to do (Practical illustration)
+  
 	Set up an automation project
 	Sample test automation (Ex: with selenium web driver, Java/python, TestNG/Junit or other popular approach)
 	Test reporting (theory on available options and one practitical illustration with maven surfire)
@@ -46,7 +47,7 @@ This is the module which explain technical aspect of test development. This has 
 	Tools/options available for mobile test automation
 	Real Device, Simulation and Emulations
 
-4.2.1	How to do (Practical part)
+4.2.1	How to do (Practical illustration)
 
 	Introduction to Appium
 	Set up appium & Appium test automation
@@ -73,7 +74,9 @@ This is the module which explain technical aspect of test development. This has 
 	Data driven
 	Mocha
 	Hybrid
-	Practical illustration
+	
+ 4.3.2.1 Practical illustration
+ 
 	Create a test automation framework
 	
 4.4	**References/free study materials on test automation framework**
@@ -127,7 +130,8 @@ This is the module which explain technical aspect of test development. This has 
 	API test Planning
 	Deriving Test cases
 	Execution and Reporting
-	Practical illustration
+	
+  4.6.2.1 Practical illustration
 	Postman introdutction & API Test Automation with Postman
 	
 4.6	**References/free study materials on API testing**
