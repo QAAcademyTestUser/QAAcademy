@@ -15,10 +15,11 @@ This QA curriculum has 9 modules.They are categorized as main modules, technical
   
   *  Further break down of sub topics (if needed)
   
-  *  References/free study materials for the relevent chapter and assesment plan
-  
   *  Practical illustrations of the chapter content
-
+  
+  *  References/free study materials for the relevent chapter content
+  
+  *  Practical assessment according to the nature of module content
 
 ![Image](https://user-images.githubusercontent.com/96818549/147656984-1f5ba2ee-2123-40d5-ab43-4cb3bf5d0c27.png)
 
