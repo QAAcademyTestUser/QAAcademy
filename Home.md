@@ -39,10 +39,22 @@ has organized in a way ensuring 60% of practical learning and 40% of theoritical
 
 
 
-[Module 01](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%201%20(General%20QA).md)
+[Module 01 - General QA Concepts](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%201%20(General%20QA).md)
 
-[Module 02](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%202%20Test%20Management.md)
+[Module 02 - Test Management](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%202%20Test%20Management.md)
 
-[Module 03](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%203%20Test%20types%20&%20methods.md)
+[Module 03 - Testing Types](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%203%20Test%20types%20&%20methods.md)
 
-[Module 04](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%204%20Technical%20QA.md)
+[Module 04 - Technical QA](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%204%20Technical%20QA.md)
+
+[Module 05 - Performance Testing](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%2005%20Performance%20Testing.md)
+
+[Module 06 - Security Testing](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%2006%20Security%20Testing.md)
+
+[Module 07 - Trending QA Technologies & Process](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%2007%20Trending%20QA%20technologies.md)
+
+[Module 08 - Soft Skills for QA](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%2008%20-Soft%20Skills%20for%20QA.md)
+
+[Module 09 - Quality Assurance career ladder ](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%2009%20QA%20Career%20Ladder.md)
+
+
