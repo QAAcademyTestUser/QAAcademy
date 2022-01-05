@@ -1,5 +1,12 @@
 ## General QA concepts 
-This is the very first and one of the important modules of the curriculum and it has fundamental concepts about quality assurance in brief while ensuring the necessity of QA.
+This is the very first and one of the important modules of this curriculum and it has fundamental concepts about quality assurance in brief while ensuring the necessity of QA.
+
+**Learning outcomes**: 
+
+                       General understanding about the basic QA and testing concepts.
+                       The value/importance of QA.
+
+**Estimated duration** : 8-10 hrs (Just a ballpark figure)
 
 1.1	Introduction & Fundamentals
 
@@ -74,8 +81,8 @@ This is the very first and one of the important modules of the curriculum and it
 1.9	Defect detection 
 
        Issue types (Errors, Defects/bugs, Failures)
-	What is it?
-	How to do it(brief explanation)?
+       What is it?
+       How to do it(brief explanation)?
 
 2.0	Defect prevention
 
