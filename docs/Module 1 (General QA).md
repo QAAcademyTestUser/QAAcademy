@@ -90,5 +90,6 @@ This is the very first and one of the important modules of the curriculum and it
 	https://www.toolsqa.com/software-testing/software-testing-tutorial/
 	https://www.toolsqa.com/software-testing/istqb/quality-assurance-and-quality-control/
 	https://www.toolsqa.com/katalon-studio/shift-left-testing/
+	
 	Practical assessment (MCQs & small answer quizzes)
 
