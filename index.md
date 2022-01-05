@@ -27,6 +27,6 @@ has organized in a way ensuring 60% of practical learning and 40% of theoritical
 
 
 
-[Module 01](https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%201.md)
+[Module 01]https://github.com/QAAcademyTestUser/QAAcademy/blob/gh-pages/docs/Module%201%20(General%20QA).md)
 
 [Module 02](https://github.com/QAAcademyTestUser/QAAcademy/edit/gh-pages/docs/Module2.md)
