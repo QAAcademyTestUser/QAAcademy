@@ -1,5 +1,5 @@
 
-7	**Software testing/Quality assurance career ladder**
+7	**Software Testing/Quality Assurance career ladder**
 
 7.1	Basic requirements
 
