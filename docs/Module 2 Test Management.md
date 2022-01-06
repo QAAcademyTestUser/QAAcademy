@@ -92,4 +92,4 @@ This module include complete guidance about test management throughout the STLC
 	
 2.13	**References/free study materials on Test management**
 	
-	 Practical assessment (MCQs & short answer quizzes)
+	 Practical assessment (MCQs & short answer quizzes). Test plan, design and prepare treacibility matrix for a given use case.
