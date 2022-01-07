@@ -1,5 +1,14 @@
 "Testing types techniques and methods" will be discussed in this module.
 
+**Learning outcomes:**
+                    
+		    1. Good understanding about different testing types and when it is necessary
+		    2. How to get the advantage of test pyramid.
+		    3. QA work flow in 3 different development models.
+
+**Estimated duration:**   6-8 hrs
+
+
 3.1	Main testing types
 
 3.1.1	Funtional testing
@@ -33,8 +42,7 @@
 
       UI/UX/Usability testing
       Accessibility testing
-      Accessibility testing
-
+      
 3.1.5	QA process adherence to different development processes
 
 	QA in TDD model
