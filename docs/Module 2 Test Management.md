@@ -1,4 +1,11 @@
-This module include complete guidance about test management throughout the STLC
+This module include complete guidance about test management throughout the STLC. 
+
+**Learning outcomes:**
+
+                1. Good understanding about all kind of test management activities listed in the chapter content.
+		
+
+**Estimated duration :**  10 hrs
 
 2.1	Introduction
 
