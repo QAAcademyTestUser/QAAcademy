@@ -37,6 +37,7 @@ has organized in a way ensuring 60% of practical learning and 40% of theoritical
 5. This will ensure that all aspects of software quality assurance are covered and students have intermediate level of 
    understanding about each topic item after completing the syllabus.
 6. Further guidance will be provided to improve practical knowledge more upon requirement and request.  
+7. Duration for each module are calculated for the worst case scenario.
 
 
 
