@@ -4,7 +4,7 @@
 **Learning outcomes:**
 
                    1. Good understanding about QA related opporunities available in the industry
-		   2. Good understanding about setting up the right foundation and get ready to begin the career and survive
+		       2. Good understanding about setting up the right foundation and get ready to begin the career and survive
 
 **Estimated duration:** 4.25 hr
 
