@@ -3,7 +3,7 @@ This module is about security aspect of a system.
 **Learning outcomes:**
 
                  1. How to check the security aspects of an application
-		 2. Major vulnerabilities, Security testing types and how to perform mannually and using some tools.
+		     2. Major vulnerabilities, Security testing types and how to perform mannually and using some tools.
 
 **Estimated duration:**  16 hr
 
