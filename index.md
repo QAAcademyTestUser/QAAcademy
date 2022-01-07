@@ -59,4 +59,7 @@ has organized in a way ensuring 60% of practical learning and 40% of theoritical
 
 [Module 09 - Quality Assurance career ladder ](./docs/Module%2009%20QA%20Career%20Ladder.html)
 
+**Overview**
+![Image](https://user-images.githubusercontent.com/96818549/148531255-079f09eb-fc4a-4b2c-a869-f998c1dcfe3a.png)
+
 
