@@ -1,6 +1,6 @@
 This module is about most popular/trending techologies, processes, techniques and tools available in the market/industry.This module will be updated biannually according to industry trends
 
-**Learning outcomes: 
+**Learning outcomes:** 
 
                  1. Awareness about the recent and trending QA processes, tools, techniques/technologies
                  
