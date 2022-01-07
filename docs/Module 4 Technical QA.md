@@ -1,9 +1,17 @@
 This is the module which explain technical aspect of test development. This has been devided into few sections based on its application across various scenarios.
 
+**Learning outcomes:**
+
+                 1. Fundamental understanding about test automation
+		 2. Web, mobile test automation skills
+		 3. Good understanding about test automation frameworks, CI, CD pipeline, version controling and API testing
+		 
+**Estimated duration:**	 32 hrs	 
+		 
 
 4.1	Introduction - Test Automation
 
-4.1.1.	What is automated software testing
+4.1.1.	What is automated software testing (3 hr)
 
 	Why it is necessary?
 	Automated Vs Mannual testing
@@ -23,7 +31,7 @@ This is the module which explain technical aspect of test development. This has 
 	https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
 	Practical assessment (MCQs & long answer quizzes)
   
-  4.2	**Web test automation**
+  4.2	**Web test automation** (5-7 hr)
   
 	Tools/options available for web test automation
 	Page object and more patterns/best practices
@@ -39,7 +47,7 @@ This is the module which explain technical aspect of test development. This has 
 	(Ex:https://angiejones.tech/selenium-webdriver-tutorial-with-java/,
 	Practical assessment (a simple test automation challange)
   
- 4.2	**Mobile test automation**
+ 4.2	**Mobile test automation** (5 -6 hr)
   
 	Introduction - Mobile test automation
 	Mobile application types
@@ -60,7 +68,7 @@ This is the module which explain technical aspect of test development. This has 
 	Ex:https://testautomationu.applitools.com/appium-java-tutorial
 	Practical assessment (a simple test automation challange)
 	
-4.3	**Test automation frameworks**
+4.3	**Test automation frameworks** (4-6 hr)
 
 4.3.1	Automation frameworks -Introduction
 
@@ -85,7 +93,7 @@ This is the module which explain technical aspect of test development. This has 
 	https://testautomationu.applitools.com/robot-framework-tutorial/
 	Practical assessment on setting up simple framework
 	
-4.4	**CI and CD**
+4.4	**CI and CD**  (3 hr)
 
 4.4.1	Basic Introduction
 
@@ -100,7 +108,7 @@ This is the module which explain technical aspect of test development. This has 
 	(Ex:https://testautomationu.applitools.com/jenkins-tutorial/)
 	Practical assessment on CI with Jenkins for automated test execution
 	
-4.5	**Version control system**
+4.5	**Version control system** (2.5-4 hr)
 
 	Basic introduction 
 	Introduction to GIThub
@@ -112,7 +120,7 @@ This is the module which explain technical aspect of test development. This has 
 	Ex: https://testautomationu.applitools.com/git-tutorial/
 	Practical assessment on how to use git
 	
-4.6	**API Testing**
+4.6	**API Testing** (3.5 -5 hr)
 
 	Basic introduction
 	What is API?
