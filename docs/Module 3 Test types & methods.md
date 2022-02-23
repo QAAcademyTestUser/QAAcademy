@@ -2,9 +2,9 @@
 
 **Learning outcomes:**
                     
-		    1. Good understanding about different testing types and when it is necessary
-		    2. How to get the advantage of test pyramid.
-		    3. QA work flow in 3 different development models.
+ 1. Good understanding about different testing types and when it is necessary
+ 2. How to get the advantage of test pyramid.
+ 3. QA work flow in 3 different development models.
 
 **Estimated duration:**   6-8 hrs
 
