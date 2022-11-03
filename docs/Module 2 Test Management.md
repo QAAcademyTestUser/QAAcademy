@@ -7,27 +7,26 @@ This module include complete guidance about test management throughout the STLC.
 
 **Estimated duration :**  10 hrs
 
+
 2.1	Introduction
 
-2.2	Why it is necessary?
+2.1.1	Why it is necessary?
 
-2.3	Testing principles (7)
+2.1.2	Seven Testing Principles
 
-2.4	Test effort estimation
+2.2	Test Estimation
 
-	Estimation techniques
-	What to estimate?((Skills, resources, time, cost)
-	How to estimate?techiniques available
-	QC/QA tasks in a project
-	WBS & 3p estimation
-	Best,most likely, worse cases
-	Function point estimation
-	Validate estimation
-	Estimation best practices
-  
-2.5	Test planning and preparing test strategies
+2.2.1	Estiamtion Considerations (Skills, resrouce, time, cost)
 
-2.5.1	Test planing
+2.2.2	Estiamtion Techniques (WBS, Single-point, Three-point)
+
+2.2.3	Estimation Task Breakdown
+
+2.2.4	Estiamtion Best Practices
+
+2.3	Test Planning & Strategy
+
+2.3.1	Test planing
 
 	Identify testing/QA objectives
 	Identify testing needs
@@ -36,19 +35,19 @@ This module include complete guidance about test management throughout the STLC.
 	Sample test plan
 	Communicate the test plan
   
-2.5.2	Test strategy
+2.3.2	Test strategy
 
 	Define parameters
 	Define test process/approaches
 	Define the number of requirements
 	Prepare the test strategy
 	Sample test strategy
-  
-2.6	Test design
 
-2.6.1	Test cases vs Test scenarios
+2.4 	Test Design
 
-2.6.2	Derive test cases from bussiness use cases
+2.4.1	Test cases vs Test scenarios
+
+2.4.2	Derive test cases from bussiness use cases
 
 	Use of tools for test design/scenario identification (Ex:Mind maps)
 	Test case prioratization based on risk/severity
@@ -56,8 +55,8 @@ This module include complete guidance about test management throughout the STLC.
 	Test design techniques
 	Ensure requirement traceability
 	Sample test design (Including, negative,positive, edge case scenarios)
-  
-2.7	Test execution
+
+2.5	Test Execution
 
 	How to perform mannually
 	What is a test cycle
@@ -66,37 +65,39 @@ This module include complete guidance about test management throughout the STLC.
 	Test reporting
 	Test status/progress
 	Test results
-  
-2.8	Test closure activities
 
-	Checking for test completion
-	Archiving/hand over test artifacts
-	Evaluating exit criteria
-	Lessons learned/retrospective meetings
-  
-2.9	Defect management
+2.6	Test Monitoring & Control
+
+	What is it?
+	Why it is useful?
+	List of few important quality metrices
+	Treacibility matrix, Defect severity index few more..
+	Test Reporting
+
+2.7	Defect Management
 
 	Tasks/User stories/Defects
 	Defect life cycle
 	Defect prioratization
 	Based on existing test requirement
 	Based on seviority & priority values
-  
-2.10	Test metices
 
-	What is it?
-	Why it is useful?
-	List of few important metrices
-	Treacibility matrix, Defect severity index few more..
-  
-2.11	Test management tools
+2.8	Test Closure
 
-	List of popular tools (Test rail, Practitests, testlink etc..)
-	
-2.12	Practical illustration
+	Checking for test completion
+	Archiving/hand over test artifacts
+	Evaluating exit criteria
+	Lessons learned/retrospective meetings
+
+2.9 	Tools for Test Management
+
+2.10	Practical illustration
 
 	Test management - Practical demonostration with popular tools (Ex:Jira & Zephyr)
 	
-2.13	**References/free study materials on Test management**
+2.11	**References/free study materials on Test management**
 	
-	 Practical assessment (MCQs & short answer quizzes). Test plan, design and prepare treacibility matrix for a given use case.
+	 Practical assessment (MCQs & short answer quizzes). Test plan, design and prepare treacibility mat
+
+
+
